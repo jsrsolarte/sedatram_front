@@ -1,12 +1,12 @@
-<template>
+/*<template>
   <v-app>
     <v-content>
-      <Home />
+      <HelloWorld />
     </v-content>
   </v-app>
-</template>
+</template>*/
 
-<script lang="ts">
+/*<script lang="ts">*/
 import Vue from "vue";
 import Home from "@/views/Home.vue"
 
@@ -21,4 +21,4 @@ export default Vue.extend({
     //
   })
 });
-</script>
+/*</script>*/
